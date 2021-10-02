@@ -1,1 +1,34 @@
-
+{
+  "Script": [
+    {
+      "Name": "Breaking Point",
+      "Desc": "Kill aura, always hit",
+      "Image": "https://media.discordapp.net/attachments/889152122422173796/889152849370566676/unknown.png",
+      "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/TqPihvFD',true))()"
+    },
+    {
+      "Name": "Da Hood",
+      "Desc": "God mode, admin base, fly, combat, much more",
+      "Image": "https://media.discordapp.net/attachments/889152122422173796/889153173078564905/unknown.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md',true))()"
+    },
+    {
+      "Name": "Anime Fighting Sim",
+      "Desc": "Auto Farm",
+      "Image": "https://media.discordapp.net/attachments/889152122422173796/889153478184800338/unknown.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Discord0000/Zer0Hub/main/GameScripts/6299805723.lua',true))()"
+    },
+    {
+      "Name": "Murder Mystery 2",
+      "Desc": "Universal ESP, Aimbot, misc",
+      "Image": "https://media.discordapp.net/attachments/889152122422173796/889153805541859418/unknown.png",
+      "Script": "repeat wait() until game.Players.LocalPlayer.Character\nurl = \"https://raw.githubusercontent.com/xennyy/Xenny-Ware/main/loader.lua\"\nloadstring(game:HttpGet(url))()"
+    },
+    {
+      "Name": "Bedwars GUI",
+      "Desc": "Nuke bridge, auto buy, speed",
+      "Image": "https://cdn.discordapp.com/attachments/889152122422173796/889154225756581978/unknown.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlaveDash/Crokuranu/main/Bedwars%20UI%20Source%20Code',true))()"
+    }
+  ]
+}
