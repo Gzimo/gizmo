@@ -29,6 +29,12 @@
       "Desc": "Nuke bridge, auto buy, speed",
       "Image": "https://cdn.discordapp.com/attachments/889152122422173796/889154225756581978/unknown.png",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlaveDash/Crokuranu/main/Bedwars%20UI%20Source%20Code',true))()"
+    },
+       {
+      "Name": "gay",
+      "Desc": "i like men",
+      "Image": "https://media.discordapp.net/attachments/855657973720547338/893772319120572426/file-20180731-136664-10ogeog.png?width=974&height=731",
+      "Script": ""
     }
   ]
 }
