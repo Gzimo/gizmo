@@ -33,7 +33,7 @@
        {
       "Name": "Darkhub",
       "Desc": "DarkHub is",
-      "Image": "https://pbs.twimg.com/profile_images/1252286508356317189/7cvEuCb-_400x400.jpg",
+      "Image": "",
       "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()"
     }
   ]
