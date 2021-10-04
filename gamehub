@@ -32,9 +32,9 @@
     },
        {
       "Name": "Darkhub",
-      "Desc": "DarkHub is",
+      "Desc": "DarkHub is the best hub out there with over 40+ games supported, darkhub is used by most exploit users its also mainly used for arsenal",
       "Image": "",
-      "Script": 'loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()"
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init', true))()"
     }
   ]
 }
