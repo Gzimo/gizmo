@@ -73,10 +73,10 @@
       "Script": "https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua"
     },
             {
-      "Name": "Phantom Forces",
-      "Desc": "Aim, Silent Aim, ESP And More",
-      "Image": "https://media.discordapp.net/attachments/894229011658592306/894435833594134568/image_2021-10-02_123611.png",
-      "Script": " loadstring(syn.request({Url = 'https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua', Method = "GET"}).Body)()"
+      "Name": "Squid Game",
+      "Desc": " TP To Admin Buttons, ESP, No Clip, Uniform And More",
+      "Image": "https://media.discordapp.net/attachments/894229011658592306/894436175144714300/image_2021-09-26_152755.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT',true))()"
     }
   ]
 }
