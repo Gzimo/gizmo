@@ -52,7 +52,7 @@
       "Name": "Bloxfruit",
       "Desc": "This script offers many features such as autofarm, speed, fly, teleport and much more.",
       "Image": "https://media.discordapp.net/attachments/847680243237126154/894836554298712134/blox-fruit-codes.png?width=1384&height=779",
-      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()"
+      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded', true))()"
     }
   ]
 }
