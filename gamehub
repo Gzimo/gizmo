@@ -71,6 +71,12 @@
       "Desc": "Auto Farm, Auto Pet, Invisible Mode And More",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894435648633704488/image_2021-10-03_004327.png",
       "Script": "https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua"
+    },
+            {
+      "Name": "Phantom Forces",
+      "Desc": "Aim, Silent Aim, ESP And More",
+      "Image": "https://media.discordapp.net/attachments/894229011658592306/894435833594134568/image_2021-10-02_123611.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT',true))()"
     }
   ]
 }
