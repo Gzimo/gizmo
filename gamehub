@@ -58,7 +58,7 @@
       "Name": "Bee Swarm Simulator Script GUI",
       "Desc": "Efficient Auto Farm, Auto Use, Feed, Teleports and Much More.",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894435259331010640/image_2021-10-03_235427.png",
-      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua%22))()"
+      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua%22'))()"
     }
   ]
 }
