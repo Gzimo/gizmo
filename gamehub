@@ -36,6 +36,12 @@
       "Image": "https://media.discordapp.net/attachments/847680243237126154/894806690304761906/DarkHublogo1.png",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init', true))()"
     },
+           {
+      "Name": "Arsenal",
+      "Desc": "DarkHub is the best hub out there with over 40+ games supported, darkhub is used by most exploit users its also mainly used for arsenal",
+      "Image": "https://media.discordapp.net/attachments/847680243237126154/894811962809122856/9adc4dac161361a69d12ba634dd427f8.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init', true))()"
+    },
           {
       "Name": "Squid Game",
       "Desc": "I have no clue what this shit does but it works so stfu.",
