@@ -65,6 +65,12 @@
       "Desc": "Efficient Auto Farm, Auto Use, Feed, Teleports and Much More",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894435259331010640/image_2021-10-03_235427.png",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua'))()"
+    },
+        {
+      "Name": "Strongest Punch",
+      "Desc": "Auto Farm, Auto Pet, Invisible Mode And More",
+      "Image": "https://media.discordapp.net/attachments/894229011658592306/894435648633704488/image_2021-10-03_004327.png",
+      "Script": "https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua"
     }
   ]
 }
