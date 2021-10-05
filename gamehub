@@ -52,7 +52,7 @@
       "Name": "PET SIMULATOR X",
       "Desc": "Auto far, auto hatch and much more.",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894434156434571294/unknown.png",
-      "Script": "loadstring(game:HttpGet("https://pastebin.com/raw/AyfXngSK%22))()"
+      "Script": "loadstring(game:HttpGet("https://pastebin.com/raw/AyfXngSK%22'))()"
     },
         {
       "Name": "Bee Swarm Simulator Script GUI",
