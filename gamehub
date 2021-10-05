@@ -47,18 +47,6 @@
       "Desc": "I have no clue what this shit does but it works so stfu.",
       "Image": "https://media.discordapp.net/attachments/847680243237126154/894806507089199165/squid-game-roblox-2-1632761162784.png",
       "Script": "https://pastebin.com/raw/01KCZYZX', true))()"
-    },
-              {
-      "Name": "PET SIMULATOR X",
-      "Desc": "Auto far, auto hatch and much more.",
-      "Image": "https://media.discordapp.net/attachments/894229011658592306/894434156434571294/unknown.png",
-      "Script": "loadstring(game:HttpGet("https://pastebin.com/raw/AyfXngSK%22'))()"
-    },
-        {
-      "Name": "Bee Swarm Simulator Script GUI",
-      "Desc": "Efficient Auto Farm, Auto Use, Feed, Teleports and Much More.",
-      "Image": "https://media.discordapp.net/attachments/894229011658592306/894435259331010640/image_2021-10-03_235427.png",
-      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua%22'))()"
     }
   ]
 }
