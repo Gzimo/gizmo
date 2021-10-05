@@ -54,7 +54,7 @@
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894434156434571294/unknown.png",
       "Script": "loadstring(game:HttpGet("https://pastebin.com/raw/AyfXngSK%22))()"
     },
-     {
+        {
       "Name": "Bee Swarm Simulator Script GUI",
       "Desc": "Efficient Auto Farm, Auto Use, Feed, Teleports and Much More.",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894435259331010640/image_2021-10-03_235427.png",
