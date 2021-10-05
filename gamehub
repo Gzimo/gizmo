@@ -75,7 +75,7 @@
             {
       "Name": "Squid Game",
       "Desc": " TP To Admin Buttons, ESP, No Clip, Uniform And More",
-      "Image": "",
+      "Image": "https://media.discordapp.net/attachments/847680243237126154/894896053545992222/8f12249ffc62922adc99e16618fdf750.png",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT',true))()"
     }
   ]
