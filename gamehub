@@ -55,10 +55,10 @@
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded'))()"
     },
     {
-      "Name": "gay 2",
-      "Desc": "rvfuhil",
-      "Image": "https://media.discordapp.net/attachments/847680243237126154/894839758386249758/file-20190314-28487-1s35pz9.png?width=778&height=778",
-      "Script": ""
+      "Name": "Anime Fighters Simulator",
+      "Desc": "Auto Play, Auto Buy, Auto Raid, Auto Fuse And More",
+      "Image": "https://media.discordapp.net/attachments/894229011658592306/894434875967438918/image_2021-08-28_145301.png",
+      "Script": "loadstring(game.HttpGet('https://raw.githubusercontent.com/KiJinGaming/FreeScript/main/KJHub.lua'))()"
     },
     {
       "Name": "gay 4",
