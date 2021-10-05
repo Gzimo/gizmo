@@ -55,7 +55,7 @@
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded'))()"
     },
     {
-      "Name": "Anime Fighters Simulator",
+      "Name": "Anime Fighters",
       "Desc": "Auto Play, Auto Buy, Auto Raid, Auto Fuse And More",
       "Image": "https://media.discordapp.net/attachments/894229011658592306/894434875967438918/image_2021-08-28_145301.png",
       "Script": "loadstring(game.HttpGet('https://raw.githubusercontent.com/KiJinGaming/FreeScript/main/KJHub.lua'))()"
