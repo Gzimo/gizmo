@@ -61,10 +61,10 @@
       "Script": "loadstring(game.HttpGet('https://raw.githubusercontent.com/KiJinGaming/FreeScript/main/KJHub.lua'))()"
     },
     {
-      "Name": "gay 4",
-      "Desc": "rfvjk",
-      "Image": "https://media.discordapp.net/attachments/847680243237126154/894839758386249758/file-20190314-28487-1s35pz9.png?width=778&height=778",
-      "Script": ""
+      "Name": "Bee Swarm",
+      "Desc": "Efficient Auto Farm, Auto Use, Feed, Teleports and Much More",
+      "Image": "https://media.discordapp.net/attachments/894229011658592306/894435259331010640/image_2021-10-03_235427.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua'))()"
     }
   ]
 }
