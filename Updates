@@ -1,14 +1,14 @@
 {
     "News": [
         {
-            "Name": "New Version of Gizmo",
-            "Date": "10/10/21",
-            "Text": "Old version got fucked so we did it again... fuck..."
+            "Name": "Final Release!",
+            "Date": "16/10/21",
+            "Text": "Gizmo is now fully done and is fully functioning, we added many features like this news section and we are always adding games to the gamehub. :)"
         },
         {
-            "Name": "Hi, Welcome to Gizmo!",
-            "Date": "20/9/21",
-            "Text": "Gizmo is a pretty cool new exploit am i rite?"
+            "Name": "How does the game hub work?",
+            "Date": "16/10/21",
+            "Text": "The gamehub is very simple to work with, once we add a new script all you need to do is close gizmo and open it again without redownloading and boom you now have the lastest scripts."
         }
     ]
   }
