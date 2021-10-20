@@ -107,6 +107,12 @@
       "Desc": "Kill All (thats litrally it nothign else)",
       "Image": "https://t1.rbxcdn.com/901170f9ac5dfab2ea4272f0439503ac",
       "Script": "https://pastebin.com/raw/PKtRBYMX"
+    },
+                              {
+      "Name": "Deliveryman Simulator",
+      "Desc": "Auto Farm, Auto Buy, Auto Upgrade",
+      "Image": "https://t7.rbxcdn.com/ae09ecaae14aae23c270d3338ec19293",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Arilis/Ari-Uitils/main/loader.lua', true))()"
     }
   ]
 }
