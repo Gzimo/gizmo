@@ -113,6 +113,18 @@
       "Desc": "Auto Farm, Auto Buy, Auto Upgrade",
       "Image": "https://t7.rbxcdn.com/ae09ecaae14aae23c270d3338ec19293",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Arilis/Ari-Uitils/main/loader.lua', true))()"
+    },
+                              {
+      "Name": "Shindo Life",
+      "Desc": " Auto Farm | Teleport n More!",
+      "Image": "https://t4.rbxcdn.com/9c63962640f89058783ea370f14a7e14",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()"
+    },
+                                  {
+      "Name": "Shindo Life",
+      "Desc": " Auto Farm | Teleport n More!",
+      "Image": "https://t4.rbxcdn.com/9c63962640f89058783ea370f14a7e14",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()"
     }
   ]
 }
