@@ -109,7 +109,7 @@
       "Script": "https://pastebin.com/raw/PKtRBYMX"
     },
                               {
-      "Name": "Deliveryman Simulator",
+      "Name": "Deliveryman",
       "Desc": "Auto Farm, Auto Buy, Auto Upgrade",
       "Image": "https://t7.rbxcdn.com/ae09ecaae14aae23c270d3338ec19293",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Arilis/Ari-Uitils/main/loader.lua', true))()"
