@@ -95,6 +95,12 @@
       "Desc": "Autofarm everything, Auto Buy, Auto strength and much more!",
       "Image": "https://robloxscripts.net/wp-content/uploads/2020/12/download-22.png",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LioK251/Scripts/main/liokhub.lua'))()"
+    },
+                      {
+      "Name": " Avatar: Rogue Benders",
+      "Desc": " Instant Money | Kill Server | OP Features",
+      "Image": "https://t1.rbxcdn.com/d0a65f22a315e758c9a34a97a3b4f2e1",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/PublicScripts/main/AvatarRogueBenders'))()"
     }
   ]
 }
