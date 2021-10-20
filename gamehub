@@ -121,10 +121,10 @@
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()"
     },
                                   {
-      "Name": "Shindo Life",
-      "Desc": " Auto Farm | Teleport n More!",
-      "Image": "https://t4.rbxcdn.com/9c63962640f89058783ea370f14a7e14",
-      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()"
+      "Name": "Driving Simulator",
+      "Desc": " Jesus Car! Used to troll people.",
+      "Image": "https://t2.rbxcdn.com/7924a97f752109349c509723a9282380",
+      "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/8Rea7Gp9', true))()"
     }
   ]
 }
