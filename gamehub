@@ -86,7 +86,7 @@
     },
                     {
       "Name": "Zombie Uprising",
-      "Desc": " Instant kill with melee weapons All weapons support [may lag due to spam, will update if needed] All Boss support Real Kill aura : Radius 60 No need of autoclickers.",
+      "Desc": "Auto Kill Script (There is nothing that pops up just execute it and it will work on its own)",
       "Image": "https://t6.rbxcdn.com/379b8ab8eb294ba4e97d6a0c4500a8de",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/toskaman/fb/master/MSDOS', true))()"
     }
