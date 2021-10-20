@@ -89,6 +89,12 @@
       "Desc": "Auto Kill Script (There is nothing that pops up just execute it and it will work on its own)",
       "Image": "https://t6.rbxcdn.com/379b8ab8eb294ba4e97d6a0c4500a8de",
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/toskaman/fb/master/MSDOS', true))()"
+    },
+                  {
+      "Name": "Project Baki 2",
+      "Desc": "Autofarm everything, Auto Buy, Auto strength and much more!",
+      "Image": "https://robloxscripts.net/wp-content/uploads/2020/12/download-22.png",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LioK251/Scripts/main/liokhub.lua'))()"
     }
   ]
 }
