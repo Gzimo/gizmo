@@ -125,6 +125,24 @@
       "Desc": " Jesus Car! Used to troll people.",
       "Image": "https://t2.rbxcdn.com/7924a97f752109349c509723a9282380",
       "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/8Rea7Gp9', true))()"
+    },
+                                      {
+      "Name": "MM2",
+      "Desc": "Kill  All, FLy, Get Gun, ESP, No Clip and much more!",
+      "Image": "https://cdn.cheat.gg/images/5fcd30105c615.jpg",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Neon-Fox/roblox-scripts/main/VynixuMM2'))()"
+    },
+                                          {
+      "Name": "Ragdoll engine",
+      "Desc": "Ragdoll engine server destroyer. With this script you are able to destroy the whole server",
+      "Image": "https://cdn.cheat.gg/images/5fe65864b5500.webp",
+      "Script": "loadstring(game:HttpGet(('https://pastebin.com/raw/T7weKqag'),true))()"
+    },
+                                              {
+      "Name": "Gym Tycoon",
+      "Desc": "Auto Farm | Auto Upgrade | Infinite Money",
+      "Image": "https://t4.rbxcdn.com/d00722e62fe7aba45f7b4bed108f1756",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NocturneMoDz/Gym-Tycoon-/main/README.md',true))();"
     }
   ]
 }
