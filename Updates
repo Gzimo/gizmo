@@ -1,19 +1,9 @@
 {
     "News": [
         {
-            "Name": "Final Release!",
-            "Date": "16/10/21",
-            "Text": "Gizmo is now fully done and is fully functioning, we added many features like this news section and we are always adding games to the gamehub. :)"
-        },
-        {
-            "Name": "How does the game hub work?",
-            "Date": "16/10/21",
-            "Text": "The gamehub is very simple to work with, once we add a new script all you need to do is close gizmo and open it again without redownloading and boom you now have the lastest scripts."
-        },
-                {
-            "Name": "New Gamehub Updates!",
-            "Date": "20/10/21",
-            "Text": "We have Updated the gamehub and added 7 new Scripts for you guys to use and we will keep adding more in the future, if you have any certain games you want let us know on our discord server."
+            "Name": "Custom Themes SOON!",
+            "Date": "1/11/21",
+            "Text": "We all love having awsome custom themes and images on our exploits, that's why we are adding it soon for you guys and maybe some built in themes which you might like."
         }
     ]
   }
