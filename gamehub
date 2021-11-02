@@ -148,6 +148,11 @@
       "Name": "Anime Tappers",
       "Desc": "Auto Tap | Auto Rebirth | Auto Upgrade | Boss Farm",
       "Image": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Mana42138/Manahub-Script-Hyper-804-was-here.lua/main/Hyper-is-still-here.lu'))()"
+    },
+                                                    {
+      "Name": "Anime Tappers",
+      "Desc": "Auto Tap | Auto Rebirth | Auto Upgrade | Boss Farm",
+      "Image": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Mana42138/Manahub-Script-Hyper-804-was-here.lua/main/Hyper-is-still-here.lu'))()"
     }
   ]
 }
