@@ -4,7 +4,7 @@
       "Name": "RoBeats",
       "Desc": "cript Song Speed, Unlock All Songs, Collect NPC Rewards",
       "Image": "https://static.wixstatic.com/media/97be72_5486f691bace4273adfada923ad56e82~mv2.png/v1/fill/w_706,h_400,al_c,lg_1,q_95/97be72_5486f691bace4273adfada923ad56e82~mv2.webp",
-      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/Introvert1337/Releases/master/RobeatsX.lua"))"
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Introvert1337/Releases/master/RobeatsX.lua'))"
     },
     {
       "Name": "Da Hood",
