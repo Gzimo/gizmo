@@ -145,10 +145,10 @@
       "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NocturneMoDz/Gym-Tycoon-/main/README.md',true))();"
     },
     {
-          "Name": "Gym Tycoon",
+      "Name": "Treasure Hunt Simulator ",
       "Desc": "Auto Sell| Farm Chests| Auto Rebirth| Auto Buy and much more.",
       "Image": "https://tr.rbxcdn.com/dccaae087f9d452aff033c008ea512e7/768/432/Image/Png",
-      "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/glof2/thuntgui/main/GUI.lua"))()"
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/glof2/thuntgui/main/GUI.lua'))()"
       }
     
   ]
